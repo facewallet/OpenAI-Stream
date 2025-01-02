@@ -1,0 +1,20 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Ai机器人",
+				"backgroundColor": "#efefef"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Ai机器人",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#efefef",
+		"h5": {
+			"navigationStyle": "custom"
+		}
+	}
+}

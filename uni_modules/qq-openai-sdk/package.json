@@ -1,0 +1,38 @@
+{
+	"id": "qq-openai-sdk",
+	"displayName": "OpenAI ChatGPT SDK(流式响应)",
+	"version": "5.0.5",
+	"description": "OpenAI的接口SDK，支持最新接口，支持WebSocket和SSE流式响应，可直接调用ChatGPT官网API接口实现智能聊天、翻译、AI绘图等功能。支持二次开发，无缝接入。",
+	"keywords": [
+        "openai",
+        "chatgpt",
+        "GPT",
+        "聊天",
+        "AI绘图"
+    ],
+	"repository": "",
+	"engines": {
+		"HBuilderX": "^3.4.0"
+	},
+	"uni_modules": {
+		"dependencies": []
+	},
+	"dcloudext": {
+		"type": "sdk-js",
+		"sale": {
+			"regular": {
+				"price": "0.00"
+			},
+			"sourcecode": {
+				"price": "0.00"
+			}
+		},
+        "contact": {
+		},
+		"declaration": {
+			"ads": "无",
+			"data": "插件不采集任何数据",
+			"permissions": "无"
+		}
+	}
+}
